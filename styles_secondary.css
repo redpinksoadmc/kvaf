@@ -1,0 +1,9 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width: auto;
+    height: 550px;
+    border: 4px solid #545454;
+}
